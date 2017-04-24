@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.21)  24 APR 2017 17:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.21)  24 APR 2017 18:52
 entering extended mode
 **./Resume.tex
 (Resume.tex
@@ -80,6 +80,18 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@dimlist=\toks15
 
 ("E:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("E:\Program Files\MiKTeX 2.9\tex\latex\titlesec\titlesec.sty"
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box26
+\beforetitleunit=\skip43
+\aftertitleunit=\skip44
+\ttl@plus=\dimen113
+\ttl@minus=\dimen114
+\ttl@toksa=\toks16
+\titlewidth=\dimen115
+\titlewidthlast=\dimen116
+\titlewidthfirst=\dimen117
+)
 ("E:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
 Package: hyperref 2016/06/24 v6.83q Hypertext links for LaTeX
 
@@ -132,7 +144,7 @@ Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 ("E:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
-\@linkdim=\dimen113
+\@linkdim=\dimen118
 \Hy@linkcounter=\count91
 \Hy@pagecounter=\count92
 
@@ -158,10 +170,10 @@ Package hyperref Info: Bookmarks ON on input line 4735.
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5088.
-\XeTeXLinkMargin=\dimen114
+\XeTeXLinkMargin=\dimen119
 \Fld@menulength=\count95
-\Field@Width=\dimen115
-\Fld@charsize=\dimen116
+\Field@Width=\dimen120
+\Fld@charsize=\dimen121
 Package hyperref Info: Hyper figures OFF on input line 6342.
 Package hyperref Info: Link nesting OFF on input line 6347.
 Package hyperref Info: Hyper index ON on input line 6350.
@@ -188,48 +200,48 @@ Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
-\Hy@SectionHShift=\skip43
+\Hy@SectionHShift=\skip45
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 15.
+Package hyperref Info: Option `colorlinks' set `true' on input line 20.
 
 ("E:\Program Files\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty"
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
-\labelindent=\skip44
-\enit@outerparindent=\dimen117
-\enit@toks=\toks16
-\enit@inbox=\box26
+\labelindent=\skip46
+\enit@outerparindent=\dimen122
+\enit@toks=\toks17
+\enit@inbox=\box27
 \enitdp@description=\count101
 ) (Resume.aux)
 \openout1 = `Resume.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
 
 ("E:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count102
-\scratchdimen=\dimen118
-\scratchbox=\box27
+\scratchdimen=\dimen123
+\scratchbox=\box28
 \nofMPsegments=\count103
 \nofMParguments=\count104
-\everyMPshowfont=\toks17
+\everyMPshowfont=\toks18
 \MPscratchCnt=\count105
-\MPscratchDim=\dimen119
+\MPscratchDim=\dimen124
 \MPnumerator=\count106
 \makeMPintoPDFobject=\count107
-\everyMPtoPDFconversion=\toks18
+\everyMPtoPDFconversion=\toks19
 ) ("E:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -277,7 +289,7 @@ G,.JBIG2,.JB2,.eps]
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\AtBeginShipoutBox=\box28
+\AtBeginShipoutBox=\box29
 ("E:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty"
 Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 
@@ -286,7 +298,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 )
-Package hyperref Info: Link coloring ON on input line 21.
+Package hyperref Info: Link coloring ON on input line 26.
 
 ("E:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -296,9 +308,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count108
 )
-LaTeX Info: Redefining \ref on input line 21.
-LaTeX Info: Redefining \pageref on input line 21.
-LaTeX Info: Redefining \nameref on input line 21.
+LaTeX Info: Redefining \ref on input line 26.
+LaTeX Info: Redefining \pageref on input line 26.
+LaTeX Info: Redefining \nameref on input line 26.
 
 (Resume.out) (Resume.out)
 \@outlinefile=\write3
@@ -308,17 +320,22 @@ LaTeX Info: Redefining \nameref on input line 21.
 File: ./images/photo.jpg Graphic file (type jpg)
 
 <use ./images/photo.jpg>
-Package pdftex.def Info: ./images/photo.jpg used on input line 38.
-(pdftex.def)             Requested size: 63.50496pt x 79.3812pt.
+Package pdftex.def Info: ./images/photo.jpg used on input line 45.
+(pdftex.def)             Requested size: 73.02972pt x 91.28716pt.
 
-Overfull \hbox (72.68259pt too wide) in paragraph at lines 29--39
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
+
+ []
+
+
+Overfull \hbox (72.68259pt too wide) in paragraph at lines 36--46
 [] [] 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 44.
+(Font)              <7> on input line 55.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 44.
+(Font)              <5> on input line 55.
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ú in font cmr10!
@@ -331,37 +348,43 @@ Missing character: There is no ù in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 156.
 
+Underfull \hbox (badness 10000) in paragraph at lines 173--174
+
+ []
+
+
+Overfull \hbox (72.68259pt too wide) in paragraph at lines 176--189
+[] [] 
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 190.
 [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 156.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 190.
  (Resume.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 156.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 156.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 190.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 190.
 Package rerunfilecheck Info: File `Resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 156.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 190.
  ) 
 Here is how much of TeX's memory you used:
- 5850 strings out of 493333
- 87351 string characters out of 3139191
- 183622 words of memory out of 3000000
- 9324 multiletter control sequences out of 15000+200000
+ 6089 strings out of 493333
+ 90375 string characters out of 3139191
+ 189641 words of memory out of 3000000
+ 9572 multiletter control sequences out of 15000+200000
  5327 words of font info for 20 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,7n,31p,282b,429s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 28i,7n,31p,282b,318s stack positions out of 5000i,500n,10000p,200000b,50000s
 <E:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><E:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><E:/Program Fi
 les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><E:/Program Files/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><E:/Program Files/MiKTeX 2.9/fon
 ts/type1/public/amsfonts/cm/cmsy10.pfb><E:/Program Files/MiKTeX 2.9/fonts/type1
 /public/amsfonts/cm/cmtt10.pfb>
-Output written on Resume.pdf (2 pages, 1990413 bytes).
+Output written on Resume.pdf (2 pages, 1990370 bytes).
 PDF statistics:
- 72 PDF objects out of 1000 (max. 8388607)
- 27 named destinations out of 1000 (max. 500000)
+ 57 PDF objects out of 1000 (max. 8388607)
+ 14 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
