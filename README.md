@@ -1,2 +1,2 @@
 # Chirag_Resume
-Trying out different frmates fot my resume.
+Trying out different formats fot my resume.
