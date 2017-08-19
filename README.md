@@ -1,2 +1,2 @@
-# Chirag_Resume
-Trying out different formats for my resume.
+# Chirag Resume
+My Resume.
