@@ -1,2 +1,2 @@
-# Chirag_Resume
+# Chirag Resume
 My Resume.
